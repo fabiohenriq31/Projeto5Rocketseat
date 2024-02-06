@@ -7,7 +7,7 @@ nav {
   height: 30px;
   display: flex;
   justify-content: space-between;
-  margin: auto;
+  margin: 69.5px auto;
 }
 nav a {
   text-decoration: none;
@@ -72,7 +72,7 @@ footer {
 #cadeado {
   position: absolute;
   left: 0;
-  top: 530px;
+  top: 610px;
   margin-left: 20px;
   
 }
